@@ -1,0 +1,9 @@
+package: iot-stats
+import:
+ - package: github.com/gin-gonic/gin
+ - package: github.com/stretchr/testify/assert
+ - package: github.com/stretchr/testify/suite
+ - package: github.com/gorilla/securecookie
+ - package: gopkg.in/mgo.v2
+ - package: gopkg.in/mgo.v2/bson
+ 
